@@ -11,6 +11,9 @@
   "engines": {
     "node": ">=22.0.0"
   },
+  "overrides": {
+    "brace-expansion": "^2.0.2"
+  },
   "hexo": {
     "version": "8.0.0"
   },
