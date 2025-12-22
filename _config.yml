@@ -91,6 +91,7 @@ pagination_dir: page
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
 include:
+- 'atlassian-domain-verification-c3406045-aa0c-48e6-8ade-09cf0ee37989.html'
 exclude:
 ignore:
 
